@@ -1,1 +1,1 @@
-worker: python aternostest.py
+worker: python TestW.py
